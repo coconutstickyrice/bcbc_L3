@@ -1,5 +1,6 @@
 @import "bootstrap";
 
+/* lesson 9 */ 
 .booyah-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
   -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
@@ -12,8 +13,20 @@
   padding: 20px;
 }
 
+/* lesson 9 */ 
 h1, h2, h3, h4, h5, h6 {
   margin:0;
   padding:0;
 }
 
+/* lesson 10 - background and nav images */ 
+body {
+  background: image_url('ep_naturalwhite.png');
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+
+}
+
+.navbar {
+  background: image_url('mochaGrunge.png');
+  box-shadow: 0px 1px 3px #2a2a2a;
+}

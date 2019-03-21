@@ -21,6 +21,5 @@ module Nomster
     # Precompile additional assets - Lesson 11
     config.assets.precompile += %w( .svg .eot .woff .ttf )
 
-
   end
 end

@@ -64,6 +64,12 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # lesson 7 - jQuery install 
 gem 'jquery-rails'
 
+# Lesson 11 - adding pagination 
+gem 'will_paginate', '> 3.1'
+
+# Lesson 12 - simple form  
+gem 'simple_form'
+
 gem 'popper_js', '~> 1.11.1'
 gem 'bootstrap', '4.0.0.alpha6'
 

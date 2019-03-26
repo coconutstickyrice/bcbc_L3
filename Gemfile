@@ -80,3 +80,5 @@ end
 # Lesson 15 - adding font-awesome gem 
 gem "font-awesome-rails"
 
+# Lesson 16 
+gem "devise"

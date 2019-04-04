@@ -6,4 +6,8 @@ class User < ApplicationRecord
 
   # lesson 18 
   has_many :places
+
+  # lesson 31 
+  has_many :comments
+  
 end

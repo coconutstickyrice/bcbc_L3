@@ -82,3 +82,7 @@ gem "font-awesome-rails"
 
 # Lesson 16 
 gem "devise"
+
+# Lesson 29 
+gem "geocoder"
+gem "figaro"
